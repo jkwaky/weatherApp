@@ -20,6 +20,6 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/AndroidStudioProjects/DarkSkyWeather" />
+    <option name="cloneParentDir" value="$USER_HOME$/AndroidStudioProjects/myweatherapp" />
   </component>
 </application>
